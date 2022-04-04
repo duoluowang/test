@@ -1,2 +1,1 @@
-# test
-githubtest
+git操作其实很简单
